@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Конвертер валют</string>
+    <string name="currency_name">Введите обозначение валюты</string>
+    <string name="convert_from">Конвертировать из</string>
+    <string name="convert_to">Конвертировать в</string>
+    <string name="convert">КОНВЕРТИРОВАТЬ</string>
+    <string name="result">Результат:</string>
+    <string name="error_currency_from">Некорректно указана валюта \"Конвертировать из\"</string>
+    <string name="error_currency_to">Некорректно указана валюта \"Конвертировать в\"</string>
+    <string name="api_limit_reached">Исчерпано количество запросов в месяц</string>
+    <string name="request_failed">Запрос выполнить не удалось</string>
+    <string name="possible_not_connect">Запрос выполнить не удалось, проверьте доступность интернета</string>
+    <string name="missed_convert_from">Заполните поле \"Конвертировать из\"</string>
+    <string name="missed_convert_to">Заполните поле \"Конвертировать в\"</string>
+</resources>
